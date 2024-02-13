@@ -1,0 +1,5 @@
+
+1) when we open app from paused state it should load  :
+2) Blanck screen issue some time freezing
+3) hardware related issue some times alert is not sending 
+4) working on shared preference 
